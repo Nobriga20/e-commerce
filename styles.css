@@ -344,10 +344,6 @@ FEATURES
     padding: 24px;
 }
 
-div {
-    display: block;
-    unicode-bidi: isolate;
-}
 
 .book__img {
     max-height: 380px;
